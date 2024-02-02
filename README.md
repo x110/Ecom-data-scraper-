@@ -40,25 +40,23 @@ This project aims to scrape product data from four skincare e-commerce websites.
 ## Tasks
 
 ### 1. Identify the Structure
-   -[ ] Understand the structure of each website, including how product information is organized on the pages.
+- [ ] Understand the structure of each website, including how product information is organized on the pages.
 
 ### 2. Scrape Data
-   -[ ] Implement the scraping logic to collect all product URLs.
-   -[ ] Implement the scraping logic to collect Product Name.
-   -[ ] Implement the scraping logic to collect Description.
-   -[ ]  Implement the scraping logic to collect Product Info.
-   -[ ]  Implement the scraping logic to collect Variation Data.
-   -[ ]  Implement the scraping logic to collect Image URL.
-   -[ ]  Implement the scraping logic to collect Benefits.
-   -[ ]  Implement the scraping logic to collect Instructions.
+   - [ ] Implement the scraping logic to collect all product URLs.
+   - [ ] Implement the scraping logic to collect Product Name.
+   - [ ] Implement the scraping logic to collect Description.
+   - [ ]  Implement the scraping logic to collect Product Info.
+   - [ ]  Implement the scraping logic to collect Variation Data.
+   - [ ]  Implement the scraping logic to collect Image URL.
+   - [ ]  Implement the scraping logic to collect Benefits.
+   - [ ]  Implement the scraping logic to collect Instructions.
 
 ### 3. Organize Data
-   -[ ]  Store the collected data in a CSV format.
+   - [ ]  Store the collected data in a CSV format.
 
 ### 4. Testing
-   -[ ] Test your scraping script to ensure it works correctly and captures the necessary information.
+   - [ ] Test your scraping script to ensure it works correctly and captures the necessary information.
 
 ### 5. Save Data at Checkpoints
-   -[ ] Implement checkpoints to periodically save the collected data.
-
-
+   - [ ] Implement checkpoints to periodically save the collected data.
