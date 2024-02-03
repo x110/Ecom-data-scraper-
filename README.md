@@ -38,12 +38,13 @@ The scraped data will be stored in a CSV file named `skincare_data.csv`. Each ro
 This project aims to scrape product data from four skincare e-commerce websites. The following tasks outline the step-by-step process for achieving this goal.
 
 ## Tasks
-
+### 0. Prepare development enviroment
+- [x] create a virtual enviroment and install dependencies
+- [x] create a dev branch
 ### 1. Identify the Structure
-- [ ] Understand the structure of each website, including how product information is organized on the pages.
-
+- [x] In a notebook, load the page locally and start to parse its elements
 ### 2. Scrape Data
-   - [ ] Implement the scraping logic to collect all product URLs.
+   - [x]  Implement the scraping logic to collect Image URL.
    - [ ] Implement the scraping logic to collect Product Name.
    - [ ] Implement the scraping logic to collect Description.
    - [ ]  Implement the scraping logic to collect Product Info.
@@ -51,6 +52,7 @@ This project aims to scrape product data from four skincare e-commerce websites.
    - [ ]  Implement the scraping logic to collect Image URL.
    - [ ]  Implement the scraping logic to collect Benefits.
    - [ ]  Implement the scraping logic to collect Instructions.
+   - [ ] Implement the scraping logic to collect all products URLs.
 
 ### 3. Organize Data
    - [ ]  Store the collected data in a CSV format.
