@@ -46,11 +46,11 @@ This project aims to scrape product data from four skincare e-commerce websites.
 ### 2. Scrape Data
    - [x] Implement the scraping logic to collect Image URL.
    - [x] Implement the scraping logic to collect Product Name.
-   - [ ] Implement the scraping logic to collect Description.
+   - [x] Implement the scraping logic to collect Description.
+   - [ ] Implement the scraping logic to collect Benefits.
    - [ ] Implement the scraping logic to collect Product Info.
    - [ ] Implement the scraping logic to collect Variation Data.
    - [ ] Implement the scraping logic to collect Image URL.
-   - [ ] Implement the scraping logic to collect Benefits.
    - [ ] Implement the scraping logic to collect Instructions.
    - [ ] Implement the scraping logic to collect all products URLs.
 
